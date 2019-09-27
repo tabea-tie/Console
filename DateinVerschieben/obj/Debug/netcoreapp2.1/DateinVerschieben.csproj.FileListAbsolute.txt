@@ -1,0 +1,11 @@
+C:\Users\ttiedtke\source\repos\DateinVerschieben\DateinVerschieben\bin\Debug\netcoreapp2.1\DateinVerschieben.deps.json
+C:\Users\ttiedtke\source\repos\DateinVerschieben\DateinVerschieben\bin\Debug\netcoreapp2.1\DateinVerschieben.runtimeconfig.json
+C:\Users\ttiedtke\source\repos\DateinVerschieben\DateinVerschieben\bin\Debug\netcoreapp2.1\DateinVerschieben.runtimeconfig.dev.json
+C:\Users\ttiedtke\source\repos\DateinVerschieben\DateinVerschieben\bin\Debug\netcoreapp2.1\DateinVerschieben.dll
+C:\Users\ttiedtke\source\repos\DateinVerschieben\DateinVerschieben\bin\Debug\netcoreapp2.1\DateinVerschieben.pdb
+C:\Users\ttiedtke\source\repos\DateinVerschieben\DateinVerschieben\obj\Debug\netcoreapp2.1\DateinVerschieben.csprojAssemblyReference.cache
+C:\Users\ttiedtke\source\repos\DateinVerschieben\DateinVerschieben\obj\Debug\netcoreapp2.1\DateinVerschieben.csproj.CoreCompileInputs.cache
+C:\Users\ttiedtke\source\repos\DateinVerschieben\DateinVerschieben\obj\Debug\netcoreapp2.1\DateinVerschieben.AssemblyInfoInputs.cache
+C:\Users\ttiedtke\source\repos\DateinVerschieben\DateinVerschieben\obj\Debug\netcoreapp2.1\DateinVerschieben.AssemblyInfo.cs
+C:\Users\ttiedtke\source\repos\DateinVerschieben\DateinVerschieben\obj\Debug\netcoreapp2.1\DateinVerschieben.dll
+C:\Users\ttiedtke\source\repos\DateinVerschieben\DateinVerschieben\obj\Debug\netcoreapp2.1\DateinVerschieben.pdb
